@@ -1,0 +1,33 @@
+# Archivos compilados 
+build/ 
+Debug/ 
+Release/ 
+x64/ 
+*.exe 
+*.dll 
+*.lib 
+*.obj 
+*.pdb 
+*.ilk 
+*.exp 
+# IDEs y editores 
+.vs/ 
+.vscode/ 
+out/ 
+*.user 
+*.suo 
+*.sdf 
+# CMake 
+CMakeCache.txt 
+CMakeFiles/ 
+cmake_install.cmake 
+*.vcxproj.user 
+# Archivos temporales 
+*.tmp 
+*.log 
+*.ipch 
+*.pch 
+*.cache 
+# Dependencias 
+vcpkg_installed/ 
+packages/
