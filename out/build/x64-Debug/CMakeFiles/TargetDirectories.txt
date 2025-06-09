@@ -1,0 +1,3 @@
+C:/Users/silvi/OneDrive - Universidad del Istmo/SISTEMAS OPERATIVOS/NoVoid/out/build/x64-Debug/CMakeFiles/clicker.dir
+C:/Users/silvi/OneDrive - Universidad del Istmo/SISTEMAS OPERATIVOS/NoVoid/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/silvi/OneDrive - Universidad del Istmo/SISTEMAS OPERATIVOS/NoVoid/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
